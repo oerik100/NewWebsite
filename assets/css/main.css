@@ -2580,6 +2580,10 @@ input, select, textarea {
 
 /* Major Icons */
 
+	#calendar{
+		margin-left: 80%;
+	}		
+	
 	ul.major-icons {
 		list-style: none;
 		padding-left: 0;
